@@ -1,9 +1,5 @@
 # CONTRIBUTING
 
-Спасибо, что хотите помочь MindFlow! Ниже — минимальные правила для быстрого старта
-
----
-
 ## 🔀 Как предложить изменение (Merge Request)
 
 1. Создайте ветку от `main` (учтите правила оформления веток ниже)
@@ -14,8 +10,6 @@
    ```bash
    git pull origin main
    ```
-
----
 
 ## 💻 Локально
 
@@ -36,8 +30,6 @@ pip install -r requirements.txt
 python manage.py migrate
 
 ```
-
----
 
 ## 📝 Правила оформления коммитов
 
@@ -81,8 +73,6 @@ python manage.py migrate
 - `Refactor complaints page template`
 - `Refactor user authentication logic`
 
----
-
 ## 🌿 Правила оформления веток
 
 ### Формат
@@ -114,12 +104,9 @@ python manage.py migrate
 - docs/contributing-guide
 - test/coverage-improvement
 
----
-
 ## ✅ Требования к коду
 
 
 - Используйте понятные имена переменных
 - Не коммитьте секреты (используйте `.env`)
 
----
