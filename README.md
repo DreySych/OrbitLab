@@ -9,15 +9,11 @@
 ![Django](https://img.shields.io/badge/django-5.2.7-092E20?logo=django)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)
 
----
-
 ## 🛠 Технологический стек
 
 - **Backend:** Python 3, Django, SciPy, NumPy
 - **Frontend:** HTML5, CSS3, JavaScript (Canvas 2D)
 - **База данных:** SQLite
-
----
 
 ## 🚀 Быстрый старт
 
@@ -79,8 +75,6 @@ python manage.py runserver
 - 🌍 Сайт: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 - ⚙️ Админка: [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 
----
-
 ## 📂 Кто где работает (структура проекта)
 
 - `orbit_lab/` — главные настройки Django.
@@ -90,5 +84,3 @@ python manage.py runserver
   - `models.py` — БД: хранение сценариев.
   - `templates/` — фронтенд: HTML.
   - `static/` — фронтенд: CSS, JS, Canvas.
-
----
